@@ -1,3 +1,4 @@
 #in accordance with the discord terms of service (probably), I've decided to ignore the token
 # so we don't need to worry about pushing that stuff.
 PERSONALTOKEN.py
+__pycache__
