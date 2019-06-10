@@ -12,8 +12,10 @@ bot = commands.Bot(command_prefix = '>')
 
 
 #print(len(english))
-#@bot.listen_message(message):
-
+@bot.listen()
+async def on_message(message):
+    if(message.channel =="updater"):
+        print("SHIT")
 @bot.command()
 async def ping(ctx):
     await ctx.send('pong')
