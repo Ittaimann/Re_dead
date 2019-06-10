@@ -76,6 +76,8 @@ async def palegius(ctx):
 	value = story.read()
 	story.close	
 	await ctx.send(value) 
-
+@bot.command()
+async def gitUpdate(ctx):
+    await.ctx.send("sorry this feature is incomplete :(")
 
 bot.run(PERSONALTOKEN.TOKEN)
