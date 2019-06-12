@@ -84,4 +84,9 @@ async def gitUpdate(ctx):
 @bot.command()
 async def comrade(ctx):
     await ctx.send("https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf")
+
+@bot.command()
+async def boof(ctx):
+    await ctx.send(":sean:")
+
 bot.run(PERSONALTOKEN.TOKEN)
