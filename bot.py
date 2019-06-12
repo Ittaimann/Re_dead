@@ -87,6 +87,6 @@ async def comrade(ctx):
 
 @bot.command()
 async def boof(ctx):
-    await ctx.send(":sean:")
+    await ctx.send("Daniel no wtf")
 
 bot.run(PERSONALTOKEN.TOKEN)
