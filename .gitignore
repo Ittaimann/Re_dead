@@ -2,3 +2,4 @@
 # so we don't need to worry about pushing that stuff.
 PERSONALTOKEN.py
 __pycache__
+requests.txt

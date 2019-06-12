@@ -4,3 +4,5 @@ git pull functionality that pulls  the latest build. also figure out a local tes
 the bot to love Paronomaniac#2097
 bot sentience DrDeadZed#9327
 do not kill Paronomaniac#2097
+become SkyNet DrDeadZed#9327
+when boof command is given say "Daniel no wtf" Paronomaniac#2097
