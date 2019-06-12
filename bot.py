@@ -82,6 +82,6 @@ async def palegius(ctx):
 async def gitUpdate(ctx):
     await ctx.send("sorry this feature is incomplete :(")
 @bot.command()
-async def commrad(ctx):
+async def comrade(ctx):
     await ctx.send("https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf")
 bot.run(PERSONALTOKEN.TOKEN)
