@@ -1,3 +1,6 @@
 Thanos Paronomaniac#2097
 stat building featuring to roll 46d and drop lowest, I understand this may be difficult (pretty print it)
 git pull functionality that pulls  the latest build. also figure out a local testing system (just message the bot?) ittaiam#2817
+the bot to love Paronomaniac#2097
+bot sentience DrDeadZed#9327
+do not kill Paronomaniac#2097
